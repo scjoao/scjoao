@@ -1,7 +1,7 @@
 ## 👋 Infos
 <ul>
   <li><b>Nome</b>: João Carlos</li>
-  <li><b>Idade</b>: 24</li>
+  <li><b>Idade</b>: 24 Anos</li>
   <li><b>Interesses</b>: Java, Spring, SQL e Angular.</li>
 </ul>
 
