@@ -1,10 +1,16 @@
-# 👋 Sobre
-Olá, meu nome é João Carlos. Trabalho atualmente como Analista de Sistemas. Sou formado em Analise e desenvolvimento de sistemas e estou cursando a faculdade de Desenvolvimento de Jogos Digitais.
+## 👋 Infos
+<ul>
+  <li><b>Nome</b>: João Carlos</li>
+  <li><b>Idade</b>: 24</li>
+  <li><b>Interesses</b>: Java, Spring, SQL e Angular.</li>
+</ul>
 
+## 📫 Contatos
+<ul>
+  <li>LinkedIn</li>
+  <li>Site Pessoal</li>
+  <li>Portifolio de Jogos</li>
+</ul>
 
-# 📫 Meus contatos
-- Este é o meu site pessoal https://scjoao.dev aqui você pode saber um pouco mais sobre mim e encontrar minhas redes sociais.
-- Você também pode me mandar um email.
-
-# ⚡ Curiosidades
+## ⚡ Curiosidades
 - Amante de tecnologia e nerdices, DC sempre será melhor que Marvel.
