@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/scjoao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href=""mailto:joao.carlos_25@hotmail.com"" target="_blank"><img src="https://img.shields.io/badge/Mail-483D8B?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="mailto:joao.carlos_25@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-483D8B?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://scjoao.dev" target="_blank"><img src="https://img.shields.io/badge/website-white?style=for-the-badge&logo=About.me&logoColor=grey" target="_blank"></a>
   <a href="https://scjoao.dev/blog" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a>
   <a href="https://gamingclasshero.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" target="_blank"></a>
