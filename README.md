@@ -8,7 +8,7 @@
   <a href="https://gamingclasshero.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" target="_blank"></a>
 </div>
 
-## Informações
+## Informações 👋
 <ul>
   <li><b>Nome</b>: João Carlos.</li>
   <li><b>Idade</b>: 24 Anos.</li>
@@ -20,10 +20,11 @@
   <li><a href="https://github.com/scjoao/jnoob" target="_blank">☕ jNoob</a> - Repositório com anotações e dicas de Java.</li>
 </ul>
 
-## Principais Skills:
+## Principais Skills
 <div style="display: inline_block">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-DC322F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white">
   <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img align="center" alt="Spring" src="https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
 <!-- <div style="display: inline_block">
@@ -34,6 +35,7 @@
 ## Estudando
 <div style="display: inline_block">
   <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 </div>
