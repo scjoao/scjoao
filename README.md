@@ -8,27 +8,21 @@
 ![Profile Badge](https://komarev.com/ghpvc/?username=scjoao&color=red)
 -->
 
+<!--
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scjoao/)
 [![Mail Badge](https://img.shields.io/badge/Mail-483D8B?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:joao.carlos_25@hotmail.com)
 [![Github Badge](https://img.shields.io/badge/GitHub-557C94?style=for-the-badge&logo=github&logoColor=white)](https://github.com/scjoao/)
 [![Itch.io Badge](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://gamingclasshero.itch.io)
-#
-
-<!--
-<div>
-  <a href="https://www.linkedin.com/in/scjoao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:joao.carlos_25@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-483D8B?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://scjoao.dev" target="_blank"><img src="https://img.shields.io/badge/website-white?style=for-the-badge&logo=About.me&logoColor=grey" target="_blank"></a>
-  <a href="https://gamingclasshero.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" target="_blank"></a>
-</div> 
 -->
+
+# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scjoao/) [![Mail Badge](https://img.shields.io/badge/Mail-483D8B?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:joao.carlos_25@hotmail.com) [![Github Badge](https://img.shields.io/badge/GitHub-557C94?style=for-the-badge&logo=github&logoColor=white)](https://github.com/scjoao/) [![Itch.io Badge](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://gamingclasshero.itch.io)
 
 <p align="left">
   Olá! Meu nome é João Carlos. Sou desenvolvedor Java e estudante de Jogos Digitais.
   
   - 🔭 Trabalhando com Java e SQL.
   - 👨🏽‍💻 Graduado em Análise e Desenvolvimento de Sistemas pela [Impacta](https://www.impacta.edu.br).
-  - 🎮 Cursando Desenvolvimento de Jogos Digitais pela [FATEC](http://www.fateccarapicuiba.edu.br).
+  - 🎮 Cursando Desenvolvimento de Jogos Digitais pela [FATEC Carapicuíba](http://www.fateccarapicuiba.edu.br).
   - 🤔 Espécie de Dev raro que não gosta de café.
 </p>
 </br>
