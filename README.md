@@ -9,9 +9,9 @@
 -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scjoao/)
-![Mail Badge](https://img.shields.io/badge/Mail-483D8B?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
-![Github Badge](https://img.shields.io/badge/GitHub-557C94?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/scjoao/)
-![Itch.io Badge](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white&link=https://gamingclasshero.itch.io)
+[![Mail Badge](https://img.shields.io/badge/Mail-483D8B?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:joao.carlos_25@hotmail.com)
+[![Github Badge](https://img.shields.io/badge/GitHub-557C94?style=for-the-badge&logo=github&logoColor=white)](https://github.com/scjoao/)
+[![Itch.io Badge](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://gamingclasshero.itch.io)
 #
 
 <!--
