@@ -1,4 +1,4 @@
-### Olá mundo 👽
+### Hey, you! You're finally awake
 
 <!--
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/scjoao/)
@@ -22,16 +22,14 @@
 -->
 
 <p align="left">
-  Olá! Meu nome é João Carlos. Sou desenvolvedor Java e estudante de Jogos Digitais.</br>
-  Atualmente, trabalho como Analista de Sistemas e tenho me dedicado a estudar Angular e</br> 
-  Typescript, além de estar aprendendo sobre criação de jogos.
+  Olá! 🤙🏽</br>
+  Meu nome é João Carlos. Sou desenvolvedor Java e estudante de Jogos Digitais. Atualmente, trabalho como Analista de Sistemas e tenho me dedicado a estudar    Angular e Typescript, além de estar aprendendo sobre criação de jogos.
   
   - 🔭 Trabalhando com Java e SQL.
   - 👨🏽‍💻 Graduado em Análise e Desenvolvimento de Sistemas pela [Impacta](https://www.impacta.edu.br).
   - 🎮 Cursando Desenvolvimento de Jogos Digitais pela [FATEC Carapicuíba](http://www.fateccarapicuiba.edu.br).
   - 🤔 Espécie de Dev raro que não gosta de café.
 </p>
-</br>
 
 ### 👨🏻‍💻 Principais Skills ###
 <div style="display: inline_block">
@@ -40,7 +38,6 @@
   <img align="center" alt="sql" src="https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="sql" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
-</br>
 
 ### 🌱 Estudando ###
 <div style="display: inline_block">
@@ -49,7 +46,6 @@
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 </div>
-</br>
 
 ### 📈 Atividade ###
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scjoao&bg_color=161b22&color=4c7b9e&line=5a2a57&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
