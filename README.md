@@ -22,7 +22,7 @@
 -->
 
 <p align="left">
-  Olá! 🤙🏽</br>
+  Olá! ☝️🤓</br>
   Meu nome é João Carlos. Sou desenvolvedor Java e estudante de Jogos Digitais. Atualmente, trabalho como Analista de Sistemas e tenho me dedicado a estudar    Angular e Typescript, além de estar aprendendo sobre criação de jogos.
   
   - 🔭 Trabalhando com Java e SQL.
