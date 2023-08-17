@@ -32,8 +32,8 @@
   Meu nome é João Carlos. Sou desenvolvedor Java e estudante de Jogos Digitais. Atualmente, trabalho como Analista de Sistemas e tenho me dedicado a estudar    Angular e Typescript, além de estar aprendendo sobre criação de jogos.
   
   - 🔭 Trabalhando com Java e SQL.
-  - 👨🏽‍💻 Graduado em Análise e Desenvolvimento de Sistemas pela [Faculdade Impacta](https://www.impacta.edu.br).
-  - 🎮 Cursando Desenvolvimento de Jogos Digitais pela [FATEC Carapicuíba](http://www.fateccarapicuiba.edu.br).
+  - 👨🏽‍💻 Graduado em Análise e Desenv. de Sistemas pela [Faculdade Impacta](https://www.impacta.edu.br).
+  - 🎮 Cursando Desenv. de Jogos Digitais pela [FATEC Carapicuíba](http://www.fateccarapicuiba.edu.br).
   - 🤔 Espécie de Dev raro que não gosta de café.
 </p>
 
