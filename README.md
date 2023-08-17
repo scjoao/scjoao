@@ -12,7 +12,7 @@
 
 <!-- <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/scjoao/scjoao/assets/29282307/b86dc0ee-a1bc-42e0-a2eb-516c81bd172e"> -->
 
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/scjoao/scjoao/assets/29282307/2b93dac2-b22e-4cf8-887a-8d4cb9578c7e">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="300" src="https://github.com/scjoao/scjoao/assets/29282307/2b93dac2-b22e-4cf8-887a-8d4cb9578c7e">
 
 <!-- ![Working from anywhere-cuate](https://github.com/scjoao/scjoao/assets/29282307/b86dc0ee-a1bc-42e0-a2eb-516c81bd172e) -->
 
