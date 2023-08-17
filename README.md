@@ -10,11 +10,11 @@
 
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/scjoao/) [![Mail Badge](https://img.shields.io/badge/-Mail-483D8B?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:joao.carlos_25@hotmail.com) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white)](https://github.com/scjoao/) [![Itch.io Badge](https://img.shields.io/badge/-Itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white)](https://gamingclasshero.itch.io) ![Profile Badge](https://komarev.com/ghpvc/?username=scjoao&color=red)
 
-<!-- <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/scjoao/scjoao/assets/29282307/b86dc0ee-a1bc-42e0-a2eb-516c81bd172e"> -->
+<!-- 
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/scjoao/scjoao/assets/29282307/b86dc0ee-a1bc-42e0-a2eb-516c81bd172e"> 
 
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="300" src="https://github.com/scjoao/scjoao/assets/29282307/2b93dac2-b22e-4cf8-887a-8d4cb9578c7e">
-
-<!-- ![Working from anywhere-cuate](https://github.com/scjoao/scjoao/assets/29282307/b86dc0ee-a1bc-42e0-a2eb-516c81bd172e) -->
+-->
 
 <!--
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scjoao/)
@@ -27,7 +27,7 @@
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scjoao/) [![Mail Badge](https://img.shields.io/badge/Mail-483D8B?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:joao.carlos_25@hotmail.com) [![Github Badge](https://img.shields.io/badge/GitHub-557C94?style=for-the-badge&logo=github&logoColor=white)](https://github.com/scjoao/) [![Itch.io Badge](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://gamingclasshero.itch.io)
 -->
 
-<p align="justify">
+<p align="left">
   Olá! ☝️🤓</br>
   Meu nome é João Carlos. Sou desenvolvedor Java e estudante de Jogos Digitais. Atualmente, trabalho como Analista de Sistemas e tenho me dedicado a estudar    Angular e Typescript, além de estar aprendendo sobre criação de jogos.
   
