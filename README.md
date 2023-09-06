@@ -28,7 +28,7 @@
 -->
 
 <p align="left">
-  Olá! ☝️🤓</br>
+  Olá!👋</br>
   Meu nome é João Carlos. Sou desenvolvedor Java e estudante de Jogos Digitais. Atualmente, trabalho como Analista de Sistemas e tenho me dedicado a estudar    Angular e Typescript, além de estar aprendendo sobre criação de jogos.
   
   - 🔭 Trabalhando com Java e SQL.
@@ -49,7 +49,7 @@
 <div style="display: inline_block">
   <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <!-- <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white"> -->
   <img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 </div>
 
